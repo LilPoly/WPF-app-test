@@ -1,2 +1,1 @@
-# Lab1
-## Console App
+WPF-app
